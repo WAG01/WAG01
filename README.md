@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WAG01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Wagner Araujo Correia github stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAG01&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WAG01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&theme=default" alt="Wagner Araujo Correia github stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAG01&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&theme=default" alt="Top Languages" width="41%" />
 </p>
 
 <p align="center">
